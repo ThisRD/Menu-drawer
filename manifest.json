@@ -1,0 +1,9 @@
+{
+    "name": "Meu Drawer Menu",
+    "short_name": "Menu Drawer",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3498db",
+    "description": "Menu Drawer Simple, feito como um PWA."
+}
